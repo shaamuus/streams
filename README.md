@@ -1,6 +1,9 @@
 # My First Website
 
-Welcome! Hope you like it 
+Welcome!
+
+This is my first website made with Code Institute.
+Hope you like it :)
 
 https://shaamuus.github.io/streams/.
 
